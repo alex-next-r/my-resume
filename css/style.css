@@ -81,11 +81,11 @@ body {
 /* COMMON */
 
 .tablet-element {
-  display: none !important;
+  display: none;
 }
 
 .desktop-element {
-  display: none !important;
+  display: none;
 }
 
 .mobile-element {
@@ -1055,7 +1055,7 @@ body {
   }
 
   .tablet-element {
-    display: block !important;
+    display: block;
   }
 
   /* .desktop-element {
@@ -1307,7 +1307,7 @@ body {
 @media only screen and (min-width: 1000px) {
 
   .tablet-element {
-    display: none !important;
+    display: none;
   }
 
   .container {
@@ -1315,7 +1315,7 @@ body {
   }
 
   .desktop-element {
-    display: block !important;
+    display: block;
   }
 
   .desktop-menu-item {
